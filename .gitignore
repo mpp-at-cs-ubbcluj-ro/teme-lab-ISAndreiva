@@ -1,2 +1,3 @@
-/labAssignment1/.gradle/
-/labAssignment1/build/
+/*/build/
+/*/out/
+/*/.gradle
